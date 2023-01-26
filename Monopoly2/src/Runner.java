@@ -18,7 +18,7 @@ public class Runner
 		public static void fillBoard()
 		{
 			originalBoard.add(new Go("Go"));
-			originalBoard.add(new Street("Mediteranean", 60, null, "brown", false, 2));
+			originalBoard.add(new Street("Mediterranean", 60, null, "brown", false, 2));
 			//originalBoard.add(new CommunityChest("Community Chest"));
 			originalBoard.add(new Street("Baltic Avenue", 60, null, "brown", false, 4));
 			//originalBoard.add(new Tax("Income Tax", 200));
