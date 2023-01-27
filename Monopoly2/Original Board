@@ -6,4 +6,10 @@ Tax Income_Tax 200
 Utility Reading_Railroad 200 null false
 Street Oriental_Avenue 100 null light_blue false 6
 Chance Chance
-Street Oriental_Avenue 
+Street Vermont_Avenue 100 null light_blue false 6
+Street Connecticut_Avenue 120 null light_blue false 8
+Jail Jail
+Street St._Charles_Place 140 null pink false 10
+Utility Electric_Company 14 null false
+Street States_Avenue 140 null pink false 10
+Street
