@@ -12,4 +12,15 @@ Jail Jail
 Street St._Charles_Place 140 null pink false 10
 Utility Electric_Company 14 null false
 Street States_Avenue 140 null pink false 10
-Street
+Street Virgina_Avenue 160 null pink false 12
+Utility Pennsylvania_Railroad 140 null false
+Street St._James_Place 180 null orange false 14
+CommunityChest Community_Chest 
+Street Tennesee_Avenue 180 null orange false 14
+Street New_York_Avenue 200 null orange false 16
+Utility Free_Parking 0 null false
+Street Kentucky_Avenue 220 null red false 18
+Chance Chance
+Street Indiana_Avenue 220 null red false 18
+Street Illinois_Avenue 240 null red false 20
+Utility B&O_RR 200 null
