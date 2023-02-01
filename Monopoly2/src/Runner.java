@@ -18,7 +18,8 @@ public class Runner
 		
 		public static void fillBoard()
 		{
-			System.out.println("");
+			System.out.println("What board would you like to play on?\n1) Original\n2) put other board here");
+			int input = userIntInput.nextInt();
 
 			
 		}
