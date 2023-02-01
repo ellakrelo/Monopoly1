@@ -6,13 +6,15 @@ public class Player
 		protected String name;
 		protected ArrayList <Property> properties = new ArrayList<Property>();
 		protected boolean inJail;
+		protected boolean bankrupt;
 		
-		public Player(int m, String n, ArrayList<Property> p, boolean i)
+		public Player(int m, String n, ArrayList<Property> p, boolean i, boolean b)
 		{
 			money = m;
 			name = n;
 			properties = p;
 			inJail = i;
+			bankrupt = b;
 		}
 
 		public int getMoney()
@@ -54,4 +56,15 @@ public class Player
 			{
 				this.inJail = inJail;
 			}
+
+		public boolean isBankrupt()
+			{
+				return bankrupt;
+			}
+
+		public void setBankrupt(boolean bankrupt)
+			{
+				this.bankrupt = bankrupt;
+			}
+		
 	}
