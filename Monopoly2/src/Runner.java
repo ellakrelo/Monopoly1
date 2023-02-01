@@ -2,6 +2,7 @@ import java.util.*;
 
 public class Runner
 	{
+		static Scanner userIntInput = new Scanner(System.in);
 		static String currentPlayer = "";
 		static ArrayList<Property> player1Owns = new ArrayList<Property>();
 		static Player player1 = new Player(1500, "name", player1Owns, false, false);
@@ -17,7 +18,7 @@ public class Runner
 		
 		public static void fillBoard()
 		{
-			
+			System.out.println("");
 
 			
 		}
