@@ -27,6 +27,30 @@ public class Runner
 				{
 					Scanner originalBoard = new Scanner(new File("Original Board"));
 					
+					while(originalBoard.hasNext())
+						{
+							String type = originalBoard.next();
+							
+							if(type.equals("Street"))
+								{
+									String name = originalBoard.next();
+									int price = originalBoard.nextInt();
+									String owner = originalBoard.next();
+									String color = originalBoard.next();
+									boolean owned = originalBoard.nextBoolean();
+									int rent = originalBoard.nextInt();
+									int h1 = originalBoard.nextInt();
+									int h2 = originalBoard.nextInt();
+									int h3 = originalBoard.nextInt();
+									int h4 = originalBoard.nextInt();
+									int hotel = originalBoard.nextInt();
+									
+									board.add(new Street(name, price, owner, color, owned, rent, h1, h2, h3, h4, hotel));
+								}
+						
+							
+						}
+					
 				}
 			else
 				{
