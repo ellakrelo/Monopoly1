@@ -1,6 +1,6 @@
 Go Go
 Street Mediterranean_Avenue 60 bank brown false 2 10 30 90 160 250
-CommunityChest Community_Chest 
+CommunityChest Community_Chest
 Street Baltic_Avenue 60 bank brown false 4 20 60 180 320 450
 Tax Income_Tax 200
 Utility Reading_Railroad 200 bank false 25
@@ -10,30 +10,30 @@ Street Vermont_Avenue 100 bank light_blue false 6 30 90 270 400 500
 Street Connecticut_Avenue 120 bank light_blue false 8 40 100 300 450 600
 Jail Jail
 Street St._Charles_Place 140 bank pink false 10 50 150 450 625 750
-Utility Electric_Company 150 bank false 4 
+Utility Electric_Company 150 bank false 4
 Street States_Avenue 140 bank pink false 10 50 150 450 625 750
 Street Virgina_Avenue 160 bank pink false 12 60 180 500 700 900
 Utility Pennsylvania_Railroad 200 bank false 25
-Street St._James_Place 180 bank orange false 14 70 200 550 750 950 
-CommunityChest Community_Chest 
+Street St._James_Place 180 bank orange false 14 70 200 550 750 950
+CommunityChest Community_Chest
 Street Tennesee_Avenue 180 bank orange false 14 70 200 550 750 950
 Street New_York_Avenue 200 bank orange false 16 80 220 600 800 1000
-Utility Free_Parking 0 bank false 0 
+Utility Free_Parking 0 bank false 0
 Street Kentucky_Avenue 220 bank red false 18 90 250 700 875 1050
 Chance Chance
 Street Indiana_Avenue 220 bank red false 18 90 250 700 875 1050
 Street Illinois_Avenue 240 bank red false 20 100 300 750 925 1100
-Utility B&O_RR 200 bank false 25 
+Utility B&O_RR 200 bank false 25
 Street Atlantic_Avenue 260 bank yellow false 22 110 330 800 975 1150
 Street Ventnor_Avenue 260 bank yellow false 22 110 330 800 975 1150
-Utility Water_Works 150 4 bank false 4
+Utility Water_Works 150 bank false 4
 Street Marvin_Gardens 280 bank yellow false 24 120 360 850 1025 1200
 GoToJail Go_To_Jail
 Street Pacific_Avenue 300 bank green false 26 130 390 900 110 1275
 Street North_Carolina_Avenue 300 bank green false 26 130 390 900 110 1275
-CommunityChest Community_Chest 
+CommunityChest Community_Chest
 Street Pennsylvania_Avenue 320 bank green false 28 150 450 100 1200 1400
-Utility Short_Line 200 bank false 25 
+Utility Short_Line 200 bank false 25
 Chance Chance
 Street Park_Place 350 bank blue false 35 175 500 1100 1300 1500
 Tax Luxury_Tax 100

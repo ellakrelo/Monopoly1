@@ -10,11 +10,11 @@ Street Boulder_City 100 bank light_blue false 6 30 90 270 400 500
 Street Sloan 120 bank light_blue false 8 40 100 300 450 600
 Jail Jail
 Street Goodsprings 140 bank pink false 10 50 150 450 625 750
-Utility Poseidon_Energy 150 bank false 4 
+Utility Poseidon_Energy 150 bank false 4
 Street Primm 140 bank pink false 10 50 150 450 625 750
 Street Fireside 160 bank pink false 12 60 180 500 700 900
 Utility West_NCR_Monorail 200 bank false 25
-Street Novac 180 bank orange false 14 70 200 550 750 950 
+Street Novac 180 bank orange false 14 70 200 550 750 950
 CommunityChest You're_S.P.E.C.I.A.L
 Street 188_Trading_Post 180 bank orange false 14 70 200 550 750 950
 Street Sarsparilla_Factory 200 bank orange false 16 80 220 600 800 1000
@@ -23,17 +23,17 @@ Street Mojave_Outpost 220 bank red false 18 90 250 700 875 1050
 Chance Luck
 Street Helios_One 220 bank red false 18 90 250 700 875 1050
 Street Repconn_Test_Site 240 bank red false 20 100 300 750 925 1100
-Utility North_NCR_Monorail 200 bank false 25 
+Utility North_NCR_Monorail 200 bank false 25
 Street Hidden_Valley 260 bank yellow false 22 110 330 800 975 1150
 Street Jacobs_Town 260 bank yellow false 22 110 330 800 975 1150
-Utility Lake_Mead 150 4 bank false 4
+Utility Lake_Mead 150 bank false 4
 Street Gun_Runners 280 bank yellow false 24 120 360 850 1025 1200
 GoToJail Go_To_Jail
 Street Nellis_Air_Force_Base 300 bank green false 26 130 390 900 110 1275
 Street The_Fort 300 bank green false 26 130 390 900 110 1275
-CommunityChest You're_S.P.E.C.I.A.L 
+CommunityChest You're_S.P.E.C.I.A.L
 Street Camp_McCarren 320 bank green false 28 150 450 100 1200 1400
-Utility East_NCR_Monorail 200 bank false 25 
+Utility East_NCR_Monorail 200 bank false 25
 Chance Luck
 Street Hoover_Dam 350 bank blue false 35 175 500 1100 1300 1500
 Tax Credit_Check 100
